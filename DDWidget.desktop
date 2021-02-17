@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=DDWidget
+GenericName=DD Widget App
+Exec=/bin/sh /home/gene/projects/java/dd-widget/startup.sh
+Terminal=false
+Icon=java
+Categories=Network
+Type=Application
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
